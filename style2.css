@@ -1,0 +1,18 @@
+body{
+    background-color: brown;
+    color: white;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+div{
+    text-align: center;
+}
+div img{
+    width: 840px;
+    height: 420px;
+}

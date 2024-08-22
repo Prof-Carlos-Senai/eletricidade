@@ -1,0 +1,14 @@
+body{
+    background-color: lightblue;
+    color: white;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+div{
+    text-align: center;
+}
